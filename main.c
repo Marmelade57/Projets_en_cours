@@ -37,7 +37,6 @@ int init_partie();
 int main() {
     int nombre;
     printf("☆꧁✬◦°˚°◦. Bienvenue .◦°˚°◦✬꧂☆ \n\n Nous allons jouer à ☆꧁✬◦°˚°◦. Mémorix .◦°˚°◦✬꧂☆ . \n\n Voulez-vous les règles du jeu ? (0: oui / 1: non)");
-    scanf("")
     init_partie();
     return 0;
 }
