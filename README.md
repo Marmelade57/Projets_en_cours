@@ -1,6 +1,6 @@
 # Bonjour, bonsoir !
 
-Bienvenue sur ce repo où je mets quelques projets non finis que j'ai fait pendant mes études.
+Bienvenue sur ce git où je mets quelques projets non finis que j'ai fait pendant mes études ou encore en cours de développement.
 
 
 ## Qu'avons nous ici ?
